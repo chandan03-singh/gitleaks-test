@@ -1,0 +1,2 @@
+secret_key=52iSnlkasdnajvn
+api_key=jasncklmaskcm2
